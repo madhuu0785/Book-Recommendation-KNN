@@ -14,8 +14,3 @@ It suggests books to users based on similarity in their preferences.
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
-
-## 📂 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Book-Recommendation-KNN.git
