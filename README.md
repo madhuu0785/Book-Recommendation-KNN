@@ -12,7 +12,7 @@ It suggests books to users based on similarity in their preferences.
 - Works on **user-based similarity** (cosine/euclidean distance)
 - Processes dataset using **Pandas & NumPy**
 - Built with **Scikit-learn**
-- **Frontend** built with **Html,Css,JavaScript*
+- **Frontend** built with **Html,Css,JavaScript**
 - **Backend** using **FastAPI** with **Uvicorn** server
 
 ---
